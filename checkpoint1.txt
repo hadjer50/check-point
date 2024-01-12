@@ -1,0 +1,18 @@
+check point theorie : 
+
+avtivité 2: 
+
+Plaintext: NEVERTRUSTINSECURITYBYOBSCURITY
+Ciphertext: ARIREGEHFGVAFRPHEVGLOLBOFPHEVGL
+Méthode de chiffrement : Chiffre de Vigenère
+Clé utilisée : SECURITY
+
+Plaintext: THISISASECRETMESSAGE
+Ciphertext: GSRHRHZHVXIVGNVHHZTV
+Méthode de chiffrement : Chiffre de César (décalage de 8)
+Clé utilisée : 8
+
+Plaintext: GOOD
+Ciphertext: OVUA
+Méthode de chiffrement : Chiffre de César (décalage de 7)
+Clé utilisée : 7
